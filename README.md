@@ -7,6 +7,9 @@ This project demonstrates a complete **end-to-end ML workflow** including data p
 
 ---
 
+![Diabetes Prediction ](banner2.png)
+
+
 ## 📌 Project Overview
 
 - **Problem Type:** Binary Classification  

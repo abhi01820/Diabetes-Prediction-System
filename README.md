@@ -1,4 +1,4 @@
-# 🩺 Diabetes Prediction System (Machine Learning)
+# 🩺 Diabetes Prediction System
 
 A machine learning–based system to predict the **risk of diabetes** using patient medical data.  
 This project demonstrates a complete **end-to-end ML workflow** including data preprocessing, model training, evaluation, and a simple user interface built with Streamlit.

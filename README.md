@@ -84,6 +84,6 @@ The UI is designed to be **clean, minimal, and easy to use**.
 
 ### 🔹 App Interface Preview
 
-![Diabetes Prediction App Interface](app_overview.png)
+![Diabetes Prediction App Interface](banner.png)
 
 > ⚠️ The prediction clearly shows the estimated probability of diabetes and is intended for educational use only.
